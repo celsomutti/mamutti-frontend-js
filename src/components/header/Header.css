@@ -1,0 +1,7 @@
+.header-main-page {
+    display: flex;
+    color:#404c53;
+    background-color: beige;
+    height: 60px;
+    align-items: center;
+}
